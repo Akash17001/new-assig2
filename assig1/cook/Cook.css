@@ -1,0 +1,36 @@
+
+P span {
+    font-weight:50px;
+    color: yellow;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    font-size: 25px;
+}
+html{
+  background-color: rgb(141, 56, 56);
+}
+
+
+.recipes-page{
+  color: white;
+  padding: 40px;
+  text-align: center;
+  align-items: center;
+  
+}
+.recipe-title {
+  color: whitesmoke;
+  padding: 10px;
+  margin: 10px ;
+  font-size: 20px;
+}
+.recipe-highlight{
+  font-size: 25px;
+  color: yellow;
+  text-decoration:none;
+  font-style: italic;
+}
+hr{
+  border: 3px rgba(245, 245, 245, 0.494) double;
+} 
